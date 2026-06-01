@@ -1,0 +1,4 @@
+interface:
+  display_name: "背叛人类.skill"
+  short_description: "把简历和产品说明书转成可派工的员工档案、项目目标、排期、催办和画饼草稿。"
+  default_prompt: "读取团队简历和产品说明书，生成员工档案、项目目标、任务分配、排期、风险、Git 审判和催办/画饼草稿。"
